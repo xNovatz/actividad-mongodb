@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "681977fd0cdf1f40e16b0ceb"
+  },
+  "nombre": "Pamela",
+  "apellido": "Guevara",
+  "carrera": "Ingeniería"
+},
+{
+  "_id": {
+    "$oid": "681977fd0cdf1f40e16b0cec"
+  },
+  "nombre": "Dilmer",
+  "apellido": "Gonzalez",
+  "carrera": "Ingeniería"
+},
+{
+  "_id": {
+    "$oid": "681977fd0cdf1f40e16b0ced"
+  },
+  "nombre": "Edwin",
+  "apellido": "Roberto",
+  "carrera": "Ingeniería"
+}]
