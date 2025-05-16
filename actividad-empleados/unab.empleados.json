@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f4f"
+  },
+  "nombre": "Carolina Suárez",
+  "edad": 29,
+  "ciudad": "Bogotá",
+  "correo": "carolina@unab.com",
+  "cargo": "Desarrolladora Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f50"
+  },
+  "nombre": "Juan Pérez",
+  "edad": 35,
+  "ciudad": "Medellín",
+  "correo": "juan@unab.com",
+  "cargo": "Analista de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f51"
+  },
+  "nombre": "Ana Gómez",
+  "edad": 31,
+  "ciudad": "Bogotá",
+  "correo": "ana@unab.com",
+  "cargo": "Desarrolladora Frontend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f52"
+  },
+  "nombre": "Luis Herrera",
+  "edad": 28,
+  "ciudad": "Cali",
+  "correo": "luis@unab.com",
+  "cargo": "QA Tester",
+  "departamento": "Calidad"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f53"
+  },
+  "nombre": "Sofía Castro",
+  "edad": 26,
+  "ciudad": "Bogotá",
+  "correo": "sofia@unab.com",
+  "cargo": "Diseñadora UX",
+  "departamento": "Diseño"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f54"
+  },
+  "nombre": "Carlos Díaz",
+  "edad": 40,
+  "ciudad": "Barranquilla",
+  "correo": "carlos@unab.com",
+  "cargo": "Arquitecto de Software",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f55"
+  },
+  "nombre": "María Torres",
+  "edad": 33,
+  "ciudad": "Bogotá",
+  "correo": "maria@unab.com",
+  "cargo": "Product Owner",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f56"
+  },
+  "nombre": "Daniela Rojas",
+  "edad": 27,
+  "ciudad": "Cali",
+  "correo": "daniela@unab.com",
+  "cargo": "Scrum Master",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f57"
+  },
+  "nombre": "Andrés Romero",
+  "edad": 30,
+  "ciudad": "Bogotá",
+  "correo": "andres@unab.com",
+  "cargo": "Administrador de Base de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f58"
+  },
+  "nombre": "Natalia Ruiz",
+  "edad": 24,
+  "ciudad": "Medellín",
+  "correo": "natalia@unab.com",
+  "cargo": "Desarrolladora Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f59"
+  },
+  "nombre": "Fernando López",
+  "edad": 38,
+  "ciudad": "Bogotá",
+  "correo": "fernando@unab.com",
+  "cargo": "Desarrollador Fullstack",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f5a"
+  },
+  "nombre": "Claudia Méndez",
+  "edad": 25,
+  "ciudad": "Cali",
+  "correo": "claudia@unab.com",
+  "cargo": "QA Tester",
+  "departamento": "Calidad"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f5b"
+  },
+  "nombre": "Ricardo Pineda",
+  "edad": 36,
+  "ciudad": "Bogotá",
+  "correo": "ricardo@unab.com",
+  "cargo": "Jefe de Proyecto",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f5c"
+  },
+  "nombre": "Valentina Vargas",
+  "edad": 29,
+  "ciudad": "Medellín",
+  "correo": "valentina@unab.com",
+  "cargo": "Desarrolladora Frontend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f5d"
+  },
+  "nombre": "Jorge Silva",
+  "edad": 32,
+  "ciudad": "Barranquilla",
+  "correo": "jorge@unab.com",
+  "cargo": "DevOps",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f5e"
+  },
+  "nombre": "Esteban Ortiz",
+  "edad": 27,
+  "ciudad": "Bogotá",
+  "correo": "esteban@unab.com",
+  "cargo": "Desarrollador Backend",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f5f"
+  },
+  "nombre": "Laura Peña",
+  "edad": 26,
+  "ciudad": "Cali",
+  "correo": "laura@unab.com",
+  "cargo": "Diseñadora UX",
+  "departamento": "Diseño"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f60"
+  },
+  "nombre": "Camila Reyes",
+  "edad": 34,
+  "ciudad": "Bogotá",
+  "correo": "camila@unab.com",
+  "cargo": "Product Owner",
+  "departamento": "Gestión"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f61"
+  },
+  "nombre": "David Morales",
+  "edad": 30,
+  "ciudad": "Bogotá",
+  "correo": "david@unab.com",
+  "cargo": "Administrador de Base de Datos",
+  "departamento": "Tecnología"
+},
+{
+  "_id": {
+    "$oid": "6826a5b263be6594e7895f62"
+  },
+  "nombre": "Lucía Mendoza",
+  "edad": 28,
+  "ciudad": "Medellín",
+  "correo": "lucia@unab.com",
+  "cargo": "Scrum Master",
+  "departamento": "Gestión"
+}]
